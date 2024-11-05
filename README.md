@@ -1,0 +1,2 @@
+# fpkg
+Freekx Package Manager
